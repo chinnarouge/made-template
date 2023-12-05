@@ -51,4 +51,4 @@ for table_name in table_names:
 
 conn.close()
 
-print("Data pipeline complete! and dataets are succesfully stored in tyhe database")
+print("Data pipeline complete! and dataets are succesfully stored in the database")

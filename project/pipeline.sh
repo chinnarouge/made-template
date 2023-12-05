@@ -1,1 +1,1 @@
-python3 /project/project_3.py
+python /project/project_3.py
