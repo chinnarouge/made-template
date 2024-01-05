@@ -1,1 +1,1 @@
-python tests/tests.py
+python project/tests/tests.py
